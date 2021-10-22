@@ -74,6 +74,7 @@ def test():
 
 @app.route("/rf", methods=['POST'])
 def rf():
+    # lalala
     # opsi1 = request.form['opsi1']
     # opsi2 = request.form['opsi2']
     # opsi3 = request.form['opsi3']
